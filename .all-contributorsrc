@@ -1,0 +1,60 @@
+{
+  "projectName": "detectable_text_field",
+  "projectOwner": "santa112358",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "none",
+  "contributors": [
+    {
+      "login": "santa112358",
+      "name": "Santa Takahashi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43510799?v=4",
+      "profile": "https://pub.dev/publishers/3tadev.work/packages",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Pareshoct7",
+      "name": "Paresh Patil",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10085177?v=4",
+      "profile": "https://www.facebook.com/Paresh.07.OCT",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jtmuller5",
+      "name": "Joseph Muller",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47997351?v=4",
+      "profile": "https://github.com/jtmuller5",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "EsteveAguilera",
+      "name": "Esteve Aguilera",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6932449?v=4",
+      "profile": "https://github.com/EsteveAguilera",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "MATTYGILO",
+      "name": "MATTYGILO",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34808802?v=4",
+      "profile": "https://github.com/MATTYGILO",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
